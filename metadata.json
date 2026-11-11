@@ -1,0 +1,8 @@
+{
+  "name": "Raven Project Setup Assistant",
+  "description": "Streamlined project administration, folder structure generator, RFQ preparation, and estimation checklist for Raven Tanks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
